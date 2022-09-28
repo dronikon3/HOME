@@ -1,0 +1,12 @@
+/* font-family: 'DIN Pro Light', sans-serif; */
+@import url('http://fonts.cdnfonts.com/css/din-pro-cond?styles=15483');
+
+/* DINPro-Light */
+@font-face { font-family: 'DINPro-Light';  src: local('DINPro-Light'), url('https://nomail.com.ua/files/woff/e0be9bd5e372b2c379893b776e7b2b96.woff') format('woff'); }
+ 
+/* Google Fonts */
+/* font-family: 'Mulish', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+/* font-family: 'Open Sans', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
